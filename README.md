@@ -4,10 +4,6 @@ CellCanon combines biological knowledge and cellular observations to predict
 perturbation responses, explain source-supported hypotheses, and update
 predictions after new measurements.
 
-**Paper:** [CellCanon: A Knowledge-Grounded Agent for Cellular Prediction,
-Explanation, and Updating](https://openreview.net/forum?id=fRua0VKGhz) —
-NeurIPS 2026 Workshop AgenticLS, Poster.
-
 [![CellCanon architecture: prediction, evidence-grounded explanation and observation-driven updating](docs/assets/overview.png)](docs/assets/overview.png)
 
 - **Predict** single-cell perturbation responses using biological evidence
